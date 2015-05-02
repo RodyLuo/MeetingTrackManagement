@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\obj\Debug\OperatorModel.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\bin\Debug\OperatorModel.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\bin\Debug\OperatorModel.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\bin\Debug\EntityLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\bin\Debug\EntityLayer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\obj\Debug\OperatorModel.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\OperatorModel\obj\Debug\OperatorModel.pdb

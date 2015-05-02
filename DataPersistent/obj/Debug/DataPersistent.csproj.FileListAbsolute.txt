@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\DataPersistent\bin\Debug\DataPersistent.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\DataPersistent\bin\Debug\DataPersistent.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\DataPersistent\obj\Debug\DataPersistent.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\DataPersistent\obj\Debug\DataPersistent.pdb

@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "会议室时间分配方案";
+}
+<h2>
+    会议室时间分配方案</h2>
+@foreach (var item in Model)
+{ 
+    <h3>@item.Key</h3>
+    <table>
+        @foreach (var talk in item.Value)
+        { 
+            <tr>
+                <td>
+                    @talk.Name
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+}

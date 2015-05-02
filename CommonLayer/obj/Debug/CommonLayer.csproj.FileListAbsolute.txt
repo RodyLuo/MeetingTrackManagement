@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\CommonLayer\bin\Debug\CommonLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\CommonLayer\bin\Debug\CommonLayer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\CommonLayer\obj\Debug\CommonLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\CommonLayer\obj\Debug\CommonLayer.pdb

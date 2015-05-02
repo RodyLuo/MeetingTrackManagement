@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\BizLayer\bin\Debug\BizLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\BizLayer\bin\Debug\BizLayer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\BizLayer\obj\Debug\BizLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\BizLayer\obj\Debug\BizLayer.pdb

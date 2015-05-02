@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\MeetingTrackManagement_Console.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\MeetingTrackManagement_Console.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\obj\x86\Debug\MeetingTrackManagement_Console.exe
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\obj\x86\Debug\MeetingTrackManagement_Console.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\obj\x86\Debug\MeetingTrackManagement_Console.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\ViewModel.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\ViewModel.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\EntityLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\MeetingDomainLayer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\EntityLayer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_Console\bin\Debug\MeetingDomainLayer.pdb
