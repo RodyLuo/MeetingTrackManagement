@@ -16,3 +16,5 @@ c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagem
 c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_WPF\bin\Debug\ViewModel.pdb
 c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_WPF\bin\Debug\MeetingDomainLayer.pdb
 c:\users\administrator\documents\visual studio 2010\Projects\MeetingTrackManagement\MeetingTrackManagement_WPF\obj\x86\Debug\MeetingTrackManagement_WPF.csprojResolveAssemblyReference.cache
+D:\Html5\MeetingTrackManagement\MeetingTrackManagement_WPF\obj\x86\Debug\MeetingTrackManagement_WPF.exe
+D:\Html5\MeetingTrackManagement\MeetingTrackManagement_WPF\obj\x86\Debug\MeetingTrackManagement_WPF.pdb
